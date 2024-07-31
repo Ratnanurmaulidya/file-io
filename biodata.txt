@@ -1,0 +1,6 @@
+Nama: ratna
+Umur: 17
+Alamat: jl.untung sudiro
+Nama: diaz
+Umur: 18
+Alamat: jl.kapi suwida
